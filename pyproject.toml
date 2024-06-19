@@ -1,0 +1,14 @@
+[project]
+name = "embeddingscurveeditor_comfyui"
+description = "Edit embeddings with a curve. Actually should work on any 1D input tensor. Tested with IPAdapter-Plus."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/chris-the-wiz/EmbeddingsCurveEditor_ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "EmbeddingsCurveEditor_ComfyUI"
+Icon = ""
