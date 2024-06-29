@@ -1,0 +1,15 @@
+[project]
+name = "Embeddings Curve Editor"
+description = ""
+version = "1.0.0"
+license = "MIT"
+dependencies = ["numpy>=1.26.4", "Pillow>=9.5.0", "regex>=2024.5.10", "scipy>=1.13.1"]
+
+[project.urls]
+Repository = "https://github.com/chris-the-wiz/EmbeddingsCurveEditor_ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "chris-the-wiz"
+DisplayName = "Embeddings Curve Editor"
+Icon = ""

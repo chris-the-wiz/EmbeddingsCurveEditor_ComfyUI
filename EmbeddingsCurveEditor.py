@@ -26,7 +26,7 @@ class EmbeddingsCurveEditor:
     RETURN_NAMES = ("image", "embed",)
     FUNCTION = "apply"
     OUTPUT_NODE = True
-    CATEGORY = "🧩 Tutorial Nodes"
+    CATEGORY = "Chris's nodes"
 
     def bspline(self, length: int, pts: list) -> list:
         """
