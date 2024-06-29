@@ -1,5 +1,5 @@
 [project]
-name = "Embeddings Curve Editor"
+name = "embeddings_curve_editor"
 description = ""
 version = "1.0.0"
 license = "MIT"
