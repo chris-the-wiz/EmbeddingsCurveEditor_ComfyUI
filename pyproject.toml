@@ -2,7 +2,7 @@
 name = "embeddings_curve_editor"
 description = ""
 version = "1.0.0"
-license = "MIT"
+license = { text = "MIT License" }
 dependencies = ["numpy>=1.26.4", "Pillow>=9.5.0", "regex>=2024.5.10", "scipy>=1.13.1"]
 
 [project.urls]
